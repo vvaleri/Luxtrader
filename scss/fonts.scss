@@ -1,0 +1,100 @@
+
+@font-face {
+    font-family: 'icomoon';
+    src: url('../font/icomoon.woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+  }
+  
+  [class^="icon-"], [class*=" icon-"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'icomoon' !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+  
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  
+  .icon-spinner9:before {
+    content: "\e982";
+  }
+  .icon-view-show:before {
+    content: "\e904";
+  }
+
+  .icon-hand-stop-o:before {
+    content: "\f256";
+  }
+  
+
+@font-face {
+    font-family: 'Bravo RG Regular';
+    src: 
+        url('../font/BravoRGRegular.woff2') format('woff2'),
+        url('../font/BravoRGRegular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Ceremonious one';
+    src: 
+        url('../font/ceremonious_one.woff2') format('woff2'),
+        url('../font/ceremonious_one.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Pfdin textcond pro-regular';
+    src: 
+        url('../font/pfdintextcondpro-regular.woff2') format('woff2'),
+        url('../font/pfdintextcondpro-regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Pfdin textcond pro-medium';
+    src: 
+        url('../font/pfdintextcondpro-medium.woff2') format('woff2'),
+        url('../font/pfdintextcondpro-medium.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'PTSans-Regular';
+    src: 
+        url('../font/PTSans-Regular.woff2') format('woff2'),
+        url('../font/PTSans-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'Idealist Sans Regular';
+    src: 
+        url('../font/Idealist\ Sans\ Regular.woff2') format('woff2'),
+        url('../font/Idealist\ Sans\ Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'PTSans-narrow';
+    src: 
+        url('../font/ptsansnarrow.woff2') format('woff2'),
+        url('../font/ptsansnarrow.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
