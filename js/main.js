@@ -1,3 +1,4 @@
+//menu
 let user_icon = document.querySelector('.user-header__icon'),
     user_menu = document.querySelector('.user-header__menu'); 
 
@@ -23,7 +24,7 @@ burger_menu.addEventListener("click", () => {
 
 });
 
-
+//перемещение копирайта на мобильных
 let copyright = document.querySelector('.footer__copyright'),
     footer = document.querySelector('.footer__content'),
     logotype = document.querySelector('.footer__logo');
@@ -83,16 +84,15 @@ $(document).ready(function(){
         });
     });
 
-
+       //адаптив изображений
         function ibg(){
-
             $.each($('._ibg'), function(index, val) {
             if($(this).find('img').length>0){
             $(this).css('background-image','url("'+$(this).find('img').attr('src')+'")');
             }
             });
             }
-            
+         
             ibg();
     
     
