@@ -43,19 +43,14 @@
 }
 
 
-
-
-
 @media (max-width: 890px) {
 
     .header__actions .header__region {
         padding: 0px;
     }
 
-
     .header__region span {
-        display: none;
-    
+        display: none;  
     }
 
     .header__user {
@@ -70,14 +65,11 @@
     .main-slider__control .slick-arrow.slick-next {
         left: 54%;
     }
-
-
 }
 
 
 @media (max-width: 850px) {
     
-
     .categories__line._rh::before {
         left: 81%;
     }
@@ -86,7 +78,6 @@
 
 @media (max-width: 785px) {
 
-   
     .main-services {
         justify-content: center;
     }
@@ -118,31 +109,24 @@
     .footer__phone small {
         font-size: 20px;
     }
-
 }
 
 
-
-
 @media (max-width: 767px) {
-
     body.lock {
         overflow: hidden;
     }
 
     .content {
         justify-content: space-between;
-        padding-right: 20px;
-        
+        padding-right: 20px;  
     }
-
 
     .header__burger {
         display: block;
         position: relative;
         width: 30px;
         height: 20px;
-
     }
 
     .header__burger span {
@@ -171,11 +155,9 @@
     }
 
     .header__burger::after {
-        bottom: 0;
-        
+        bottom: 0;    
     }
 
- 
  .header__burger.active:before {
     transform: rotate(45deg);
     top: 9px; 
@@ -189,15 +171,11 @@
   .header__burger.active span {
     transform: scale(0); }
 
-
-
     .header__logo {
         position: absolute;
         left: 50%;
         top: 50%;
         transform: translate(-50%, -50%);
-      
-    
     }
 
     .header__menu .header__list {
@@ -205,7 +183,6 @@
         text-align: center;
         padding: 100px 0px 20px 0px;
     }
-
 
     .header__list {
         position: fixed;
@@ -232,7 +209,6 @@
         margin-bottom: 0px;
     }
    
-
     .header__list::after {       
         content: '';
         background-color: #1c242a;
@@ -240,8 +216,7 @@
         width: 100%;
         height: 75px;
         left: 0;
-        top: 0;
-        
+        top: 0;  
     }
 
     .header__actions {
@@ -251,7 +226,6 @@
     .main-slider__control .slick-arrow.slick-next {
         left: 55%;
     }
-
 
     .slider-lots__body {
             margin: 0px;
@@ -281,8 +255,6 @@
     .current-bet-info-lot {
         padding: 15px;
     }
-
-
 }
 
 @media (max-width: 750px) {
@@ -301,14 +273,12 @@
         justify-content: center;
         margin: 10px 0px 10px 0px;
     }
-
 }
 
 @media (min-width: 700px) {
     .item:hover .item__bg {
         transform: scale(1.1);
     }
-
 }
 
 @media (max-width: 700px) {
@@ -355,10 +325,6 @@
 }
 
 
-
-
-
-
 @media (max-width: 650px) {
 
     .lot__image {
@@ -370,12 +336,6 @@
     .main-slider__control .slick-arrow.slick-next {
         left: 56%;
     }
-
-
-
-
-
-
 }
 
 
@@ -399,8 +359,7 @@
     .slider-quotes__sign {
         margin: 25px 0px 15px 0px;
     }
-  
-
+ 
 }
 
 
@@ -434,9 +393,7 @@
     .control-slider-quotes__btn {
         
         margin: 0 20px;
-    }
-
-    
+    } 
 }
 
 
@@ -463,12 +420,6 @@
     .slider-quotes__title {
         font-size: 20px;
     }
-  
-
-
-
-
-
 }
 
 @media (max-width: 340px) {
@@ -487,11 +438,6 @@
     .control-slider-quotes__btn {
         margin: 0 5px;
     }
-
-
-
-
-
 }
 
 @media (max-width: 320px) {
@@ -503,10 +449,4 @@
     ._tx {
         padding-right: 15px;
     }
-
-
-
-
-
-
 }
