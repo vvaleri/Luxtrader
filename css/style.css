@@ -348,10 +348,10 @@ body {
   border-image: linear-gradient(to top, #906731 0%, #a08963 50%, #c3a673 100%);
   border-image-slice: 1;
   -o-border-image: linear-gradient(to top, #906731 0%, #a08963 50%, #c3a673 100%);
-  -moz-border-image: -moz-linear-gradient(to top, #906731 0%, #a08963 50%, #c3a673 100%);
-  -webkit-appearance: none; 
+/*   -moz-border-image: -moz-linear-gradient(to top, #906731 0%, #a08963 50%, #c3a673 100%); */
+/*   -webkit-appearance: none; 
 -moz-appearance: none; 
-appearance: none 
+appearance: none  */
 }
 
 .item-main-slider__btn:hover {
