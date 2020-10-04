@@ -1,2 +1,2 @@
 # luxtrader
-vvaleri.github.io/luxtrader/
+https://vvaleri.github.io/luxtrader/
