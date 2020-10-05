@@ -344,18 +344,13 @@ body {
   letter-spacing: 1px;
   line-height: 21px;
   padding: 15px 50px;
-/*   border: 3px solid transparent; */
   border-width: 3px;
   border-style: solid;
   border-image: linear-gradient(to top, #906731 0%, #a08963 50%, #c3a673 100%);
   border-image-slice: 1;
   -o-border-image: linear-gradient(to top, #906731 0%, #a08963 50%, #c3a673 100%);
   -webkit-border-image: -webkit-linear-gradient (to top, #906731 0%, #a08963 50%, #c3a673 100%);
-  border-image: -webkit-gradient(linear, 0deg, color-stop(0%, #906731), color-stop(50%, #a08963),  color-stop(100%, #c3a673));
-/* -moz-border-image: -moz-linear-gradient(to top, #906731 0%, #a08963 50%, #c3a673 100%);  */
-/*   -webkit-appearance: none; 
--moz-appearance: none; 
-appearance: none  */
+-moz-border-image: -moz-linear-gradient(to top, #906731 0%, #a08963 50%, #c3a673 100%); 
 }
 
 .item-main-slider__btn:hover {
@@ -696,13 +691,12 @@ appearance: none  */
   text-transform: uppercase;
   letter-spacing: 1px;
   padding: 13px 20px;
-  border: 3px solid transparent;
+   border-width: 3px;
+  border-style: solid;
   -o-border-image: linear-gradient(to top, #906731 0%, #a08963 50%, #c3a673 100%);
   border-image: linear-gradient(to top, #906731 0%, #a08963 50%, #c3a673 100%);
+  -webkit-border-image: -webkit-linear-gradient (to top, #906731 0%, #a08963 50%, #c3a673 100%);
   border-image-slice: 1;
-  -webkit-appearance: none; 
--moz-appearance: none; 
-appearance: none 
 }
 
 .lot__btn:hover {
