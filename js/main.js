@@ -1,4 +1,4 @@
-//menu
+//меню
 let user_icon = document.querySelector('.user-header__icon'),
     user_menu = document.querySelector('.user-header__menu'); 
 
