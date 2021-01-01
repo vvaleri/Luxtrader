@@ -1,5 +1,5 @@
 # luxtrader
 
-landing page
+[landing page](https://vvaleri.github.io/luxtrader)
 
-https://vvaleri.github.io/luxtrader/
+
